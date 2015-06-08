@@ -44,3 +44,16 @@
 3. IPython notebookのファイル(拡張子.ipynb)のあるフォルダで、IPython notebookを起動します。ブラウザ内で編集画面が使えるようになります。
 
     % ipython3 notebook
+#参考資料
+##Pythonプログラムを書くのに役立つサイト
+Pythonには、古いバージョン(バージョン2系)と新しいバージョン(バージョン3系)があり、微妙に文法が変わっています。今回の実習は3系の文法を説明しています。
+
+* [Python言語のオンラインマニュアル(日本語)](http://docs.python.jp/3/) Pythonの書き方のほか、各種ライブラリを紹介している。
+* [WinPython](http://sourceforge.net/projects/winpython/) この講義で使用しているWinPython(WP)の提供元(英語)。最新版を入手可能
+* [Scipy](http://www.scipy.org) WPに含まれる高度な数値計算ライブラリの情報(英語)。
+* [pandas](http://pandas.pydata.org/) WPに含まれるデータ解析ライブラリpandasの情報(英語)。
+* [Dive into Python3](http://diveintopython3-ja.rdy.jp/) Python2との違い(日本語)。Python3に移行するメリットが簡潔に明快に書かれている。すでにPython2をどこかでさわったことがある人は読むとよい。
+* [CodeAcademy](http://www.codecademy.com/tracks/python) フリーオンライン教材CodeAcademyで学ぶPython。講義を聞くのがかったるい人はこっちで学ぶことも可能。
+* [Google App Engine](https://developers.google.com/appengine/?hl=ja) Googleが提供するウェブアプリケーション開発環境Google App Engine。ウェブサーバ上で動くアプリケーションを無料でPythonで開発できる(日本語)。
+
+iPhoneのApp Storeで検索すると、iPhone上でPythonプログラムを書いて走らせることもできるようです。
