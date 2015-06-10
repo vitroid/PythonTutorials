@@ -1,0 +1,257 @@
+Drug Design, Development and Therapy Dovepress open access to scientific and medical research
+￼Open Access Full Text Article
+Review
+The usefulness of ozone treatment in spinal pain
+￼velio Bocci1 emma Borrelli2 iacopo Zanardi1 valter Travagli1
+1Department of Biotechnology, Chemistry and Pharmacy, Università degli Studi di Siena, 2Department of Medical Biotechnologies, University of Siena, Siena, italy
+Objective: The aim of this review is to elucidate the biochemical, molecular, immunologi- cal, and pharmaceutical mechanisms of action of ozone dissolved in biological fluids. Studies performed during the last two decades allow the drawing of a comprehensive framework for understanding and recommending the integration of ozone therapy for spinal pain. Methods: An in-depth screening of primary sources of information online – via SciFinder Scholar, Google Scholar, and Scopus databases as well as Embase, PubMed, and the Cochrane Database of Systemic Reviews – was performed. In this review, the most significant papers of the last 25 years are presented and their proposals critically evaluated, regardless of the bibliometric impact of the journals.
+Results: The efficacy of standard treatments combined with the unique capacity of ozone therapy to reactivate the innate antioxidant system is the key to correcting the oxidative stress typical of chronic inflammatory diseases. Pain pathways and control systems of algesic signals after ozone administration are described.
+Conclusion: This paper finds favors the full insertion of ozone therapy into pharmaceutical sciences, rather than as either an alternative or an esoteric approach.
+Keywords: oxidants, oxidative stress, antioxidants
+Introduction
+During the last three decades, on the basis of Wolff ’s suggestions,1 ozone therapy has been used by practitioners in Europe in an empirical fashion. Unfortunately, even today, some ozone therapists have either a misconception of, or know only some technical tips for performing, ozone therapy. These problems, associated with the paucity of controlled clinical studies, have hindered the real progress of ozone therapy. In the recent past, a number of negative factors, such as the empiric use of ozone by ignorant practitioners, lack of standardization, ozone generators without an appropriate photom- eter, and scarcity of scientific data, have created good reasons for orthodox medicine to refuse ozone therapy. Today, the problems of how ozone acts, how its toxicity can be controlled, and how therapeutic effects can be exerted have been fully clarified.2–4 In recent books5,6 and reviews7–11 there is extensive description of: (1) what ozone is; (2) how it can be used; (3) the biological effects of ozone elicited by its messengers, such as reactive oxygen species (ROS) and lipid oxidative products (LOPs); (4) the features of ozone administration; (5) the behavior and fate of the ozone messengers after coming into contact with body fluids; and (6) the therapeutic effects of ozone.
+Concisely, the essential concepts to bear in mind are as follows.
+Ozone immediately reacts as soon as it is dissolved in biological water (physi- ological saline, plasma, lymph, urine, interstitial fluid), according to Figure 1, where atomic oxygen behaves as a very reactive species.
+Ozone reacts with both present antioxidants and polyunsaturated fatty acids (PUFAs). The lipid peroxidation by ozone leads to the simultaneous formation of both
+￼￼Correspondence: velio Bocci; valter Travagli
+Università degli Studi di Siena, viale Aldo Moro 2, 53100 Siena, italy
+Tel +39 05 7723 4226; 39 05 7723 4317 Fax +39 05 7723 4219; 39 05 7723 4333 email velio.bocci@unisi.it; valter.travagli@unisi.it
+submit your manuscript | www.dovepress.com Dovepress http://dx.doi.org/10.2147/DDDT.S74518
+Drug Design, Development and Therapy 2015:9 2677–2685
+2677
+￼￼© 2015 Bocci et al. This work is published by Dove Medical Press Limited, and licensed under Creative Commons Attribution – Non Commercial (unported, v3.0)
+License. The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0/. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. Permissions beyond the scope of the License are administered by Dove Medical Press Limited. Information on how to request permission may be found at: http://www.dovepress.com/permissions.php
+Bocci et al
+Dovepress
+Figure 1 The cascade of compounds generated during ozone interaction in biological aqueous environments. Abbreviation: ROS, reactive oxygen species.
+ROS and LOPs.9,12 One of the ROS is hydrogen peroxide, which is a non-radical oxidant able to act as an ozone messen- ger responsible for eliciting several biological and therapeutic effects.13 The transitory formation of O2•- (anion superoxide), •OH (hydroxyl radical), and 1O2 (singlet oxygen) is possible, but their small amounts are irrelevant. Although ROS have a lifetime of less than a second, they can damage crucial cell components and therefore their generation must be precisely controlled to achieve a biological effect without any damage. LOP production follows the peroxidation of PUFAs. They are intrinsically toxic and must be generated in very low concentrations. Antioxidants, such as ascorbic and uric acids; compounds with -SH groups, such as reduced glutathione as
+well as albumin (mainly at Cys34) are molecules that react and neutralize ozone.9 On the other hand, if the ozone amount is excessive, carbohydrates, enzymes, DNA, and RNA can also be oxidized and broken down.
+In conclusion, it must be clear that a correct ozonation process either carried out in blood, or intradiscally and intra- muscularly, should represent an acute but tolerable oxidative stress giving the hormetic-type response of the interacting biological system (Figure 2). In this paper, the reactions of ozone injected intradiscally or into the paravertebral muscles are discussed in detail. Provided that the ozone dosage is cor- rect, ozone is not deleterious, but, acting as a pro-drug, it is actually capable of eliciting a multitude of useful biological
+Figure 2 The inverted U-shaped curve obtained on the basis of the therapeutic effects using an ozone concentration range between 10 and 80 μg/mL of gas per mL of blood, with 100% being the value obtained in basal conditions
+￼2678
+submit your manuscript | www.dovepress.com Dovepress
+Drug Design, Development and Therapy 2015:9
+Dovepress
+The usefulness of ozone treatment in spinal pain
+￼responses and, possibly, reversing a chronic oxidative stress such as those derived from degenerative processes. Indeed the ozone-therapeutic act is interpreted as an atoxic but real “therapeutic shock” able to restore homeostasis.
+The paradoxical effect of ozone
+in orthopedic diseases: the problem of back pain
+The usual therapies in musculoskeletal diseases do not affect a “cure” of the disease and are often characterized by side effects.14 Consequently, patients are easily induced to try complementary therapies. It is likely that Dr Alexander Balkanyi in Zurich was the first to inject small volumes of ozone in patients affected by tendinitis and myofascial pain.15 After him, a few ozone therapists treated acute and chronic polyarthritis, acute and chronic painful diseases of the joints, and Morton’s disease (neuroma) with intra-articular or periarticular insufflation of small volumes (5–10 mL) of a gaseous mixture of O -O (ozone concentrations ranging
+23
+from 5 to 15 μg/mL).16–18 Theoretically, such treatments seem
+irrational because the injection into the synovial space of a potent oxidant like ozone should elicit further inflammatory reactions or degeneration. However, by now, a great number of patients have been treated, with positive outcomes all around the world. Unfortunately, controls with oxygen alone have been casually evaluated only in one trial.19 On the other hand, it is indispensable to understand how ozone acts.
+First, it would be interesting to examine the synovial fluid and bioptic fragments before and after ozone therapy to clarify these really paradoxical ozone effects. So far this has not been possible, either because most patients are treated privately or because it is difficult to collect samples. Meantime, some hypotheses have been formulated according to the generation of the proper amounts of ROS and LOPs after ozone solubiliza- tion in the aqueous environment of synovial fluid. Briefly, they can be summarized as: (1) small, if any, release of proteolytic enzymes, proinflammatory cytokines, bradykinin, and inflam- matory prostaglandins; and (2) stimulation of chondrocyte and fibroblast proliferation, responsible for an increase in the synthesis of matrix and possibly of articular cartilage.6,20–22
+As regards low back pain, it is a very disturbing symptom that can affect up to about 80% of the world’s population. Luckily, in many cases, conventional and complementary physical therapies can solve the problem.23,24 Generally, a herniated disc causes considerable pain, probably due to inflammation rather than compression. In fact, by using magnetic resonance imaging (MRI), an extensive evalua- tion has shown that 76% of apparently normal people have
+Drug Design, Development and Therapy 2015:9
+hernias without any symptoms.25 However, such pain should be removed with the least-invasive procedure, starting with either chemonucleolysis26 or nucleo-discectomy, or else laser discectomy.27 Another technique with a success rate of about 75% is aspiration of the degenerated disc, including part of the herniated material.28 Nucleoplasty was approved by the US Food and Drug Administration in 1999 according to two variants in terms of the temperatures adopted, and the out- comes in controlled trials were total resolution of leg pain in 70%–80% of cases.29 Another approach widely used by many ozone therapists was proposed by Verga, a private ozone therapist who noted pain relief after infiltrating trigger points in myalgias with oxygen-ozone. Such a technique injects the gas into the tender points localizable in the paravertebral muscle (locus dolendi) corresponding to the metamer of the herniated disc.18 This approach can be defined either as an “indirect approach” or “chemical acupuncture”, thus clari- fying that the beneficial results are obtained via ozone as a chemical reactant by needle insertion.5 More recently, another indirect variant has been introduced by the epidural injection of ozone by anesthesiologists in correspondence to the lesion (Figure 3). Unless it is carefully performed with small volumes (1–3 mL of gas), it can cause side effects, the most frequent being headache. Also, intradiscal injection of oxygen-ozone would be nucleolytic and beneficial and this technique can be defined as the “direct intradiscal injection of ozone”.30
+Summarizing, the use of ozone to treat back pain is worth trying before surgical intervention. It is becoming widely used in Italy, Spain, Germany, Greece, Canada, Cuba, the People’s Republic of China, Japan, and India.
+Figure 3 Schematic view of a transverse section of the lumbar region. The arrows indicate the three possible routes of O2-O3 administration.
+Note: Copyright ©2011. Bocci v. Ozone: A New Medical Drug. 2nd ed. Dordrecht: Springer; 2011. Reprinted with the kind permission of Springer Science and Business.6 Abbreviations: CA, chemical acupuncture in the paravertebral muscle; eP, epidural route; iD, intradiscal; MC, medullary canal; NP, nucleus pulposus; PM, paravertebral muscle.
+￼submit your manuscript | www.dovepress.com Dovepress
+2679
+Bocci et al
+Dovepress
+￼The direct approach
+The direct approach is carried out by needle insertion fol- lowed by direct insufflation of the oxygen-ozone gas mixture (3–10 mL; ozone concentration about 30 μg/mL) at the level of the pathologic intersomatic space under radioscopic con- trol (Figure 3). Clinical studies published in Italian journals together with personal communications received from both Italian universities and private clinical centers give an account of about 63,000 patients who have been treated in Italy with intradiscal injections. Such an approach generated more than 80% of good results, and this was also confirmed by either computed tomography or MRI controls.25,30–34 Moreover, extensive studies have been also performed in thousands of patients who had failed to respond to conservative management.35–38 Nonetheless, it would be useful to perform randomized clinical trials to evaluate the role of variables like needle type, place of needle insertion, oxygen amount, and ozone concentration.
+A possible mechanism of action of ozone in the direct approach can be summarized as follows: ozone dissolves in the interstitial water and immediately reacts with the biomol- ecules therein. A cascade of ROS, among which are H2O2 and hydroxyl radicals, will be generated.39–41 ROS, reacting with the proteoglycans of nucleus pulposus, lead to their breakdown, resulting in matrix degeneration with progressive shrinkage and disappearance of the herniated material.42–46 Such a reduc- tion of the mechanical irritation lowers the sensitivity of axons. On the other hand, algesic endogenous substances released during perineural ischemia or neural inflammation present in the spinal ganglion and neural roots can also stimulate nociceptors. So, mechanical awkwardness of neural elements by definable structural abnormalities is inadequate as a sole explanation for nerve injury.47,48 Moreover, epidural corticos- teroid injections for sciatica due to herniated nucleus pulposus transitorily improve leg pain and sensory deficits in patients,49 and intravenous infusions of infliximab appeared to especially benefit cases of L4-L5 (or L3-L4) herniation.50
+Now, the question is, how does ozone rapidly block inflammatory reactants and stimulate restitutio ad integrum? The formation of hydroxyl radicals can both degrade degener- ated material and reduce pressure.40 Moreover, the few mil- liliters of oxygen-ozone gas mixture can surprisingly exert an “anti-inflammatory action”, particularly because of insertion into the nucleus pulposus and invasion of the intraforaminal space.44,45 Regardless, such changes can remain stable and do not necessarily lead to the total disappearance of the herniated material. So far, attempts to examine the histopathological changes in pigs have been inconclusive. At the moment,
+the ozone effect can be theorized as the result of succes- sive stages: (1) an instantaneous reaction at the level of the interstitial aqueous environment, with possible edema dis- appearance and improvement of circulatory and metabolic conditions; followed by, (2) stasis conditions which achieve a further improvement, possibly linked to transforming growth factor beta 1 (TGF-β1) and basic fibroblast growth factor (bFGF) release that favors the reorganization of the residual nucleus pulposus with incipient fibrosis.20,51 When it is difficult to introduce more than 1–2 mL of oxygen-ozone gaseous mixture into the nucleus pulposus, as it is in young patients, preliminary aspiration of the nucleus followed by the introduction of the gas might improve the result. On the other hand, ozone therapy by intraforaminal administration appears to be useful in the case of sclerotic hernias.32 As far as the documented side effects go, these are very rare and are represented by a transient lipothymia32 and bilateral blindness (amaurosis fugax) which reversed after about 24 hours after cervical discolysis in a young athlete.52
+The indirect approach
+This is a very useful approach because almost all patients
+before intradiscal injection are first so treated. It is techni-
+cally simple and it is very popular in Italy, Germany, Spain,
+Cuba, Canada, and People’s Republic of China. It consists
+in one or several (up to four) injections of 5–10 mL of
+oxygen-ozone gaseous mixture per site. It has been defined
+as “chemical acupuncture” because both the needle and gas
+injection have a role in eliciting a complex series of chemi-
+cal and neurological reactions leading to the disappearance
+of pain in the majority (positive responses in 70–80% of
+cases) of patients with low spinal pain. It has been clearly
+established that the ozone concentration must be neither
+below 18–20 μg/mL, nor higher than 25 μg/mL. If it is too
+low, it is hardly effective, but higher than 20 μg/mL can
+be too painful, especially during the initial treatments, and
+may even cause lipothymia and a risky vasovagal reflex. On
+the other hand, it has been observed that, after five to seven
+treatments, the pain threshold rises and therefore the ozone
+concentration can be carefully increased, but not exceeding
+the limit of 30 μg/mL.19 The paravertebral muscles are used
+as a route for infiltration of O2-O3. The paravertebral injection
+of oxygen alone as a control is far less effective than the gas
+mixture O -O ,19 and the clinical results vary somewhat.53 23
+They can be summarized as: about 40% optimal, 35%–40% marked improvement, and 15%–25% minimal or no result. Moreover, according to unpublished experiences of one of us (VB), injection of O2-O3 exceeding 20 μg/mL elicits a
+Drug Design, Development and Therapy 2015:9
+￼2680
+submit your manuscript | www.dovepress.com Dovepress
+Dovepress
+The usefulness of ozone treatment in spinal pain
+￼sharp pain lasting only a few minutes. However, it is inter- esting to note that the pain at first elicited rapidly tends to subside because of a progressive elevation of pain thresh- old. In such cases, the ozone concentration can be slowly increased up to 30 μg/mL. It appears that the stimulation of nociceptors – hence, of a tolerable and transitory pain – is an essential requirement for achieving the final therapeutic effect. The patient’s reactivity can be preliminarily tested with an injection of sterile saline into the trigger points cor- responding to the metamers of the herniated disk, followed by ozone injection at low concentration (10 μg/mL). The injection must be done very slowly using 35 mm needles varying from G22 to G25 according to the patient’s obesity. Usually, two symmetrical injections (total dose 10–20 mL gas with at most 200–400 μg ozone) repeated twice per week for about 5–6 weeks (ten to 12 sessions) are sufficient; if not, the patient should be classified as unresponsive to this approach. However, this point is divisive because some ozone therapists continue treatments for up to 30 sessions. Obviously, it is important to have precise guidelines and rules to be followed. In fact, an excessive dose of ozone may even lead to death because of complex neurovegetative disorders.
+Thus, by acting carefully, serious adverse effects, such as sudden hypotension, bradycardia, mydriasis, intense perspi- ration, and cardiac arrest can be avoided.54 For completeness’ sake, very rare infectious local complications after percutane- ous oxygen-ozone treatment have been recently reported.55 In terms of mechanism of action, it can be hypothesized that ozone dissolves mostly into the interstitial water and reacts immediately with antioxidants and PUFA-generating hydro- gen peroxide and LOPs, as previously described in “The direct approach” section. These compounds are responsible for stimulating local C-nociceptors and causing a transitory and usually tolerable pain that is an essential requirement for achieving the final therapeutic effect.
+Ultimately, injections of oxygen-ozone either intradis- cally or into the paravertebral muscles indicate the level of evidence either for ozone therapy applied intradiscally or for ozone therapy applied at the paravertebral muscle and periforaminally for long-term pain relief, based on US Pre- ventive Services Task Force criteria.56,57 The main limitations of the reports that have been reviewed are the lack of precise diagnosis and the frequent use of mixed therapeutic agents. A variety of reports published in international journals of minor importance but still characterized by a wide audience confirm such positive results of ozone therapy.33,58–62 More- over, gas injection appears also very effective in alleviating osteoarthritis and several other joint-tendinitis affections, as
+Drug Design, Development and Therapy 2015:9
+least as far as it can be deduced from the abstract published in a Chinese journal by two Chinese researchers.63
+Organization of pain pathways
+and speculative ideas about ozone’s ability to quench pain
+Sensory stimuli able to activate free nerve endings in various tissues and viscera can be elicited by:
+1. Mechanical pressure corresponding to the compression
+of the spinal ganglions in the case of intraforaminal and extraforaminal herniation and deformation of nerve fibers disrupting the myelin nerve sheath
+2. Vascular-mediated factors, due to ischemia with either possible trophic nerve impairment or venous stasis with edema caused by blockage of venous reflux, particularly occurring in intraforaminal herniations
+3. A sterile, chronic inflammation affecting neural and perineural structures. The pathogenesis is complex and frequently linked to immune-mediated reactions with inflammatory cells infiltration and release of a number of toxic compounds such as ROS, LOPs, excessive nitric oxide and peroxynitrite formation; release of: bradykinin after kallikrein activation; prostaglandins, especially PGE2 (after phospholipase A2 and cyclooxygenase, COX2 activation); proinflammatory cytokines such as Tumor Necrosis Factor á, Interleukins1,6,8,15 and interferon gamma; and matrix metalloproteinases (MMP) able to hydrolyse proteins of the intercellular matrix. Nociceptive signals are conveyed to the spinal cord by
+un-myelinated and small myelinated sensory axons. Moreover, chronic mechanical and inflammatory stimulation of the nerve root may stimulate the ganglionic and periganglionic nocicep- tors (mainly polymodal type C) responsible for hyperalgesia, a condition presenting allodynia (perception of a non-nociceptive stimulus as painful), characterized by a lowering of the pain threshold and an increase in the intensity of pain even following subliminal stimuli. Damaged tissues as well as local nerve end- ings can release a variety of noxious agents, such as histamine, prostaglandins, potassium, bradykinin, and substance P.
+The axons of nociceptive dorsal horn neurons form the ascending spinothalamic tract of which the direct system carries sensory discriminative information about pain to the thalamic level within the nucleus ventralis posterolateralis, while the phylogenetically older spinoreticulothalamic sys- tem terminates more diffusively in the brainstem reticular nuclei or, more precisely, in the nucleus centralis lateralis and nucleus parafascicularis. Besides the major ascending pain pathways, the brain contains potent descending circuits able
+￼submit your manuscript | www.dovepress.com Dovepress
+2681
+Bocci et al
+Dovepress
+￼to suppress nociceptive inputs. The midbrain periaqueductal gray neurons project to the nucleus raphe magnus and can produce generalized analgesia without other sensory or motor responses. A descending projection from the raphe magnus inhibits the nociceptive responses of dorsal horn neurons. A separate inhibitory pathway from the nucleus locus coer- uleus also directly ends in the dorsal horn. Interestingly, endogenous opiate peptides are intensely synthesized by neurons present in the periaqueductal gray region, the med- ullary raphe, and the dorsal horn. Moreover, high densities of opiate receptors are found in those areas as well as in the medial thalamus and limbic forebrain and this fact explains their important role in the analgesic response.
+Besides the release of endorphins, neurons present in the descending pathways modulate or/and reduce nociception by releasing neurotransmitters such as (1) serotonin, typi- cally present in many raphe neurons that end in dorsal horn; and (2) norepinephrine, produced by neurons present in the nucleus coeruleus of the pons (Figure 4).
+In conclusion, the probable mechanisms playing a role can be summarized as follows:40
+1. Activation of the descending antinociceptive system
+2. Release of endorphins, which blocks transmission of the
+noxious signal to the thalamus and cortex
+3. Hypostimulation (elevation of the activation threshold)
+linked to the oxidative degeneration of C-nociceptors
+4. Simultaneous psychogenic stimulation of the central analgesic system induced by the gas injection, somehow
+due to a placebo effect
+5. Localized oxygenation and analgesia, important in terms
+of muscle relaxation and vasodilation as well as reactiva- tion of the muscle metabolism, by favoring oxidation of lactate, neutralization of acidosis, enhanced synthesis of adenosine triphosphate, Ca2+ reuptake, and edema reab- sorption. Moreover, a further analgesic effect may be derived from the induction of antioxidant enzymes.64 Finally, experimental studies have been recently con-
+ducted in dogs and in pigs. In the former, the intradiscal O2-O3 injection decompresses disc herniation by disc shrinkage.65 In the latter, evidence of the safety of clinical treatment has been provided.66
+Technical aspects for medical ozone generation
+In accordance with the quality requirements of each therapeutic treatment, it is of interest to point out some specific properties of ozone. From a practical point of view, ozone has a short half-life (approximately 1 hour at room
+ 
+ 
+ 
+ 
+￼￼￼2682
+submit your manuscript | www.dovepress.com Dovepress
+Figure 4 Scheme of the mechanisms for the control of algesic signals. By releasing endorphins (end.), the enkephalinergic interneuron may inhibit the presynaptic connection of a neurocyte (C) of a spinal ganglion, which, under compression of a herniated disc, stimulates the release of substance P (SP). endorphins can inhibit the transmission of the algesic signal to neuron D (D), hence to the ascending spinal- thalamic fibers. The monoaminergic or serotonergic neuron A (A), as a component of antinociceptive descending fibers, can reinforce the analgesic effect of neuron B (B). Moreover, the localized oxygenation and analgesia are most important because they permit muscle relaxation and vasodilation, thus a reactivation of muscle metabolism, by favoring oxidation of lactate, neutralization of acidosis, increased synthesis of adenosine triphosphate, Ca2+ reuptake, and reabsorption of edema. Note: Copyright ©2011. Bocci v. Ozone: A New Medical Drug. 2nd ed. Dordrecht: Springer; 2011. Reprinted with the kind permission of Springer Science and Business.6
+temperature) enabling it to be kept for long periods of time. In fact, ozone in the gaseous state reacts with itself and rap- idly decomposes to oxygen.67 So, medical ozone generation and delivery systems require that ozone be created at the moment it is to be administered, except for the pioneering form of a clathrate hydrate.68 Immediate ozone formation can be achieved by different methods, represented by corona discharge, cold plasma, and UV irradiation.69,70 In all these cases, the generation of ozone for therapeutic purpose starts from pure medical oxygen being passed through a high voltage gradient (5–13 megavolts) according to the reaction
+32O2 +163kJO3.
+Consequently, a gas mixture comprising no less than
+95% oxygen and no more than 5% ozone is collected.
+Drug Design, Development and Therapy 2015:9
+Dovepress
+The usefulness of ozone treatment in spinal pain
+￼Air must be excluded because of the formation of nitrous oxide and dinitrogen pentoxide from air-fed ozone generators.71 Moreover, because medical ozone should never be inhaled, clinics must be equipped with appropriate detec- tors, ozone destructors, and emergency air depurators.
+Conclusion and perspectives
+The main biochemical mechanisms of action and the real possibility of taming ozone toxicity have been extensively clarified.3,5,9,72–74 The first comprehensive framework for understanding and recommending ozone therapy in a few diseases as a first choice and in combination with orthodox therapy in many others is now available. Indeed, one impor- tant characteristic of ozone therapy is that, in comparison to other complementary and more or less esoteric approaches, it can be experimentally verified both at the biochemical and clinical levels.
+Regarding the orthopedic problem, pain has a mul- tifactorial origin and ozone can surprisingly display a number of beneficial effects, ranging from the inhibition of inflammation, correction of ischemia and venous stasis to finally inducing a reflex therapy effect by stimulating anti-nociceptor analgesic mechanisms. Both the intradiscal and intramuscular injection of oxygen-ozone are successful approaches comparable to other mini-invasive procedures.75 Is ozone really the crucial factor or, like other procedures involving thermocoagulation, is it that the external stimulus, which, by acting as a shocking event, is able to stimulate the natural healing capabilities? It must be said that the use of ozone in orthopedics has witnessed a far swifter success than the practice of ozonated autohemotherapy for systemic dysfunction: such a discrepancy can be explained by the rapid disappearance of pain achievable in most cases after a single intradiscal injection of ozone, even if further studies are necessary to demonstrate the persistency of effects of ozone therapy over time.
+The use of ozone in orthopedic diseases has become very popular and gratifying in comparison to surgical procedures. Objective results from clinical studies represent a unique possibility for counting ozone therapy within pharmaceuti- cal sciences as a method of choice for treating spinal disc herniation.
+Author contributions
+VB conceived, planned, drafted the paper, collated and ana- lyzed the data, gathered references and approved the final ver- sion of the manuscript for publication. VT drafted the paper, contributed to the critical revision of the draft, refined the
+Drug Design, Development and Therapy 2015:9
+search for information, analyzed the data, assisted with the editing of the paper, gathered references, and approved the final version of the manuscript for publication. IZ gathered references and generated the figures. EB and IZ helped in the development of the study concept and revised and contributed to the approval of the final manuscript. All authors contrib- uted toward data analysis, drafting and revising the paper and agree to be accountable for all aspects of the work.
+Disclosure
+The authors report no conflicts of interest. No funds have been received for this paper. The authors alone are respon- sible for the content and writing of the paper.
+References
+1. Wolff HH, editor. Das medizinische Ozon: Theoretische Grundlagen, Therapeutische Anwendungen [Medical ozone: theoretical bases, thera- peutic applications]. Heidelberg: Verlag für Medizin; 1979. German.
+2. Sagai M, Bocci V. Mechanisms of Action Involved in Ozone Therapy: Is healing induced via a mild oxidative stress? Med Gas Res. 2011;1:29. 3. BocciV.Howacalculatedoxidativestresscanyieldmultipletherapeutic
+effects. Free Radic Res. 2012;46:1068–1075.
+4. Bocci V, Valacchi G. Free radicals and antioxidants: how to rees-
+tablish redox homeostasis in chronic diseases? Curr Med Chem.
+2013;20(27):3397–3415.
+5. Bocci V. Oxygen-Ozone Therapy: A Critical Evaluation. Dordrecht:
+Kluwer Academic; 2002.
+6. Bocci V. Ozone: A New Medical Drug. 2nd ed. Dordrecht: Springer;
+2011.
+7. Bocci VA. Scientific and medical aspects of ozone therapy. State of
+the art. Arch Med Res. 2006;37(4):425–435.
+8. Bocci V. The case for oxygen-ozonetherapy. Br J Biomed Sci. 2007;
+64(1):44–49.
+9. Bocci V, Borrelli E, Travagli V, Zanardi I. The ozone paradox: ozone
+is a strong oxidant as well as a medical drug. Med Res Rev. 2009;29(4):
+646–682.
+10. BocciVA,ZanardiI,TravagliV.Ozoneactingonhumanbloodyields
+a hormetic dose-response relationship. J Transl Med. 2011;9:66.
+11. Bocci V, Zanardi I, Borrelli E, Travagli V. Reliable and effective oxygen-ozone therapy at a crossroads with ozonated saline infusion and
+ozone rectal insufflation. J Pharm Pharmacol. 2012;64(4):482–489. 12. Pryor WA. Mechanisms of radical formation from reactions of ozone with target molecules in the lung. Free Radic Biol Med. 1994;17:
+451–465.
+13. Groeger G, Quiney C, Cotter TG. Hydrogen peroxide as a cell-
+survival signaling molecule. Antioxid Redox Signal. 2009;11(11):
+2655–2671.
+14. McGettiganP,HenryD.Useofnon-steroidalanti-inflammatorydrugs
+that elevate cardiovascular risk: an examination of sales and essential medicines lists in low-, middle-, and high-income countries. PLoS Med. 2013;10:e1001388.
+15. BalkanyiA.Theinteractionbetweenozonetherapyandoxygenradicals and their importance in practice. In: Proceedings of the Ninth Ozone World Congress. New York, NY, June 3–9, 1989. Vol 3, Ozone in medicine. International Ozone Association Pan American Committee; pp. 22–27.
+16. Riva Sanseverino E. Knee-joint disorders treated by oxygen-ozone therapy. Eura Medicophys. 1989;25(3):163–170.
+17. Verga C. Nuovo approccio terapeutico alle ernie e protrusioni discali lombari [New therapeutic approach to lumbar disc herniations and protrusions]. Rivista di Neuroradiologia. 1989;2:148. Italian.
+￼￼submit your manuscript | www.dovepress.com Dovepress
+2683
+Bocci et al
+Dovepress
+￼18. Siemsen CH. Ozon-Anwendung bei akuten und chronischen Gelenker- krankungen [Ozone use in acute and chronic joint diseases]. In: Beck EG, Viebahn-Hänsler R, editors. Ozon-Handbuch: Grundlagen, Prävention, Therapie [Ozone handbook: basics, prevention, therapy]. Landsberg: Ecomed; 1995:V-9.2.1-V-9.2.14. German.
+19. Torri G, Della Grazia A, Casadei C. Clinical experience in the treatment of lumbar disk disease, with a cycle of lumbar muscle injections of an oxygen + ozone mixture. Int J Med Biol Environ. 1999;27:177–183.
+20. Trippel SB. Growth factor actions on articular cartilage. J Rheumatol Suppl. 1995;43:129–132.
+21. Qi WN, Scully SP. Extracellular collagen modulates the regulation of chondrocytes by transforming growth factor-beta 1. J Orthop Res. 1997;15(4):483–490.
+22. Grimaud E, Heymann D, Rédini F. Recent advances in TGF-beta effects on chondrocyte metabolism. Potential therapeutic roles of TGF- beta in cartilage disorders. Cytokine Growth Factor Rev. 2002;13(3): 241–257.
+23. Cherkin DC, Deyo RA, Battié M, Street J, Barlow W. A comparison of physical therapy, chiropractic manipulation, and provision of an educational booklet for the treatment of patients with low back pain. N Engl J Med. 1998;339(15):1021–1029.
+24. Samanta A, Beardsley J. Low back pain: which is the best way forward? BMJ. 1999;318(7191):1122–1123.
+25. Alexandre A, Buric J, Paradiso R, et al. Intradiscal injection of O2-O3 to treat lumbar disc herniations: results at five years. Rivista Italiana di Ossigeno-Ozonoterapia. 2002;1:165–169.
+26. Smith L. Chemonucleolysis. Clin Orthop Relat Res. 1969;67:72–80.
+27. Onik G, Maroon J, Helms C, et al. Automated percutaneous dis- kectomy: initial patient experience. Work in progress. Radiology.
+1987;162(1):129–132.
+28. Bocchi L, Cervelli C, Ferrata P. La nucleoaspirazione [Nucleoaspira-
+tion]. In: Ceccherelli F, Ricciardi A, editors. Lombalgie e lombos- ciatalgie: Criteri di diagnosi e cura [Low back pain and sciatica: criteria for diagnosis and treatment]. Turin: Edizioni Libreria Cortina; 1998:285–293. Italian.
+29. Andreula C, Muto M, Leonardi M. Interventional spinal procedures. Eur J Radiol. 2004;50:112–119.
+30. Jucopilla N, Ferrarese C, Tirapelle G, Battista R, Mazzo G, Robert A. Infiltrazioni disco-foraminali con O2-O3 nelle SDR da conflitto disco- radicolari lombari. In: Proceedings: I Congresso IMOS. Siena, Italy, November 2–4, 2000. p. 38.
+31. Bonetti M, Cotticelli B, Valdenassi L, Richelmi P. Analisi dei risultati dopo trattamento con O2-O3 nelle ernie intra ed extra foraminali lombari [Analysis of the results after treatment with O2-O3 in intra- and extrafo- raminal lumbar hernias]. Rivista di Neuroradiologia. 2001;14:89–92. Italian.
+32. Fabris G, Tommasini G, Petralia B, et al. L’ossigeno-ozono terapia intra-foraminale [Intraforaminal oxygen-ozone therapy]. Rivista di Neuroradiologia. 2001;14:61–66. Italian.
+33. Alexandre A, Corò L, Azuelos A, et al. Intradiscal injection of oxygen- ozone gas mixture for the treatment of cervical disc herniations. Acta Neurochir Suppl. 2005;92:79–82.
+34. Gallucci M, Limbucci N, Zugaro L, et al. Sciatica: treatment with intradiscal and intraforaminal injections of steroid and oxygen-ozone versus steroid only. Radiology. 2007;242(3):907–913.
+35. Andreula CF, Simonetti L, De Santis F, Agati R, Ricci R, Leonardi M. Minimally invasive oxygen-ozone therapy for lumbar disk herniation. AJNR Am J Neuroradiol. 2003;24(5):996–1000.
+36. Muto M, Ambrosanio G, Guarnieri G, et al. Low back pain and sciatica: treatment with intradiscal-intraforaminal O(2)-O(3) injection. Our experience. Radiol Med. 2008;113(5):695–706. English, Italian.
+37. Torres LM, Tejero MJ, Vidal M, Aragón F, Martínez J. Discólisis con ozono intradiscal en el tratamiento de la ciática por hernia dis- cal. Seguimiento de 100 pacientes en 24 meses [Ozone discolysis in the treatment of sciatica due to a herniated disc. A 24-month follow-up of 100 patients]. Revista de la Sociedad Española del Dolor. 2009;16(3):147–152.
+38. Paoloni M, Di Sante L, Cacchio A, et al. Intramuscular oxygen-ozone therapy in the treatment of acute back pain with lumbar disc hernia- tion: a multicenter, randomized, double-blind, clinical trial of active and simulated lumbar paravertebral injection. Spine (Phila Pa 1976). 2009;34(13):1337–1344.
+39. Bocci V. Ipotetici meccanismi di azione dell’ozono nel trattamento del conflitto discoradicolare [Hypothetical mechanisms of the action of ozone in the treatment of disco-radicular conflict]. In Ceccherelli F, Ricciardi A, editors. Lombalgie e lombosciatalgie: Criteri di diagnosi e cura [Low back pain and sciatica: criteria for diagnosis and treatment]. Turin: Edizioni Libreria Cortina; 1998:331–340. Italian.
+40. Borrelli E. Mechanism of action of oxygen ozone therapy in the treat- ment of disc herniation and low back pain. Acta Neurochir Suppl. 2011;108:123–125.
+41. Ueno I, Hoshino M, Miura T, Shinriki N. Ozone exposure generates free radicals in the blood samples in vitro. Detection by the ESR spin- trapping technique. Free Radic Res. 1998;29(2):127–135.
+42. McCord JM. Free radicals and inflammation: protection of synovial fluid by superoxide dismutase. Science. 1974;185(4150):529–531. 43. Curran SF, Amoruso MA, Goldstein BD, Berg RA. Degradation of
+soluble collagen by ozone or hydroxyl radicals. FEBS Lett. 1984;
+176(1):155–160.
+44. Hawkins CL, Davies MJ. Direct detection and identification of
+radicals generated during the hydroxyl radical-induced degradation of hyaluronic acid and related materials. Free Rad Biol Med. 1996;21(3): 275–290.
+45. Bocci V, Pogni R, Corradeschi F, et al. Oxygen-ozone in orthopaedics: EPR detection of hydroxyl free radicals in ozone-treated “nucleus pulposus” material. Rivista di Neuroradiologia. 2001;14(1):55–59.
+46. Leonardi M, Simonetti L, Barbara C. Effetti dell’ozono sul nucleo polposo: reperti anatomo-patologici su un caso operato [Effects of ozone on the nucleus pulposus: pathologic findings in an operative case]. Rivista di Neuroradiologia. 2001;14(1 Suppl):57–59.
+47. Saal JS, Franson RC, Dobrow R, Saal JA, White AH, Goldthwaite N. High levels of inflammatory phospholipase A2 activity in lumbar disc herniations. Spine (Phila Pa 1976). 1990;15(7):674–678.
+48. Lin JH, Chiang YH, Chen CC. Lumbar radiculopathy and its neuro- biological basis. World J Anesthesiol. 2014;3(2):162–173.
+49. Carette S, Leclaire R, Marcoux S, et al. Epidural corticosteroid injec- tions for sciatica due to herniated nucleus pulposus. N Engl J Med. 1997;336(23): 1634–1640.
+50. Korhonen T, Karppinen J, Paimela L, et al. The treatment of disc- herniation-induced sciatica with infliximab: one-year follow-up results of FIRST II, a randomized controlled trial. Spine (Phila Pa 1976). 2006;31(24):2759–2766.
+51. Silver FH, Glasgold AI. Cartilage wound healing. An overview. Otolaryngol Clin North Am. 1995;28(5):847–864.
+52. Alexandre A, Pentimalli L, Rigobello L, Corò N. Amaurosi fugax in un caso di discolisi cervicale mediante O2O3 [Amaurosi fugax in one case of hernial disk at cervical level by O2-O3]. In: Ceccherelli F, Giron F, editors. L’Ozonoterapia nel 2000 [The ozone in 2000]. Turin: Edizioni Libreria Cortina; 1999:141–144.
+53. Cinnella P, Brayda-Bruno M. La nostra esperienza nel trattamento dei conflitti disco-radicolari e delle radicolopatie post-chirurgiche con ossigeno-ozono terapia infiltrativa paravertebrale [Our experience of the treatment of disc-root conflict and post-surgical radiculopathy with infiltrative paravertebral oxygen-ozone therapy]. Rivista di Neurora- diologia. 2001;14:75–79.
+54. Cummins RO, editor. Textbook of Advanced Cardiac Life Support. Dallas, TX: American Heart Association; 1994.
+55. Menéndez P, García A, Peláez R. [Paravertebral and intra-abdominal abscess due to oxygen-ozone therapy for lower back pain.] Rev Esp Cir Ortop Traumatol. 2014;58(2):125–127. Spanish.
+56. Magalhaes FN, Dotta L, Sasse A, Teixera MJ, Fonoff ET. Ozone therapy as a treatment for low back pain secondary to herniated disc: a systematic review and meta-analysis of randomized controlled trials. Pain Physician. 2012;15(2):E115–E129.
+Drug Design, Development and Therapy 2015:9
+￼2684
+submit your manuscript | www.dovepress.com Dovepress
+Dovepress
+The usefulness of ozone treatment in spinal pain
+￼57. Rahimi-Movaghar V, Eslami V. The major efficient mechanisms of ozone therapy are obtained in intradiscal procedures. Pain Physician. 2012;15(6):E1007–E1008.
+58. He XF, Yu ZJ, Li YH, et al. Percutaneous injection of intradiscal and paraspinal space with O2-O3 mixture to treat lumbar disc herniation. Rivista Italiana di Ossigeno-Ozonoterapia. 2003;2(2):135–138.
+59. Buric J, Rigobello L, Hooper D. Five and ten year follow-up on intradis- cal ozone injection for disc herniation. Int J Spine Surg. 2014;8:17.
+60. Lu W, Li YH, He XF. Treatment of large lumbar disc herniation with percutaneous ozone injection via the posterior-lateral route and inner margin of the facet joint. World J Radiol. 2010;2(3):109–112.
+61. Doss A. Case report: intradiscal oxygen ozone therapy in uncontained lumbar disc herniation. v1; ref status: approved 1, approved with res- ervations 1, http://f1000r.es/Q4mQBW. F1000Research [serial online]. 2012 August 30:[about 7 p]. Available from: http://f1000research. com/articles/1-13/v1. Accessed March 18, 2015.
+62. De Oliveira Junior JO, Lages GV. Ozonioterapia em lombociatal- gia [Ozone therapy for lumbosciatic pain]. Revista Dor São Paulo. 2012;13(3):261–270. English, Portuguese.
+63. Guo DW, Zhang XY. Study on treatment for knee osteoarthritis by medical ozone. Gansu Medical Journal. 2010–01.
+64. León Fernández OS, Pantoja M, Díaz Soto MT, et al. Ozone oxidative post-conditioning reduces oxidative protein damage in patients with disc hernia. Neurol Res. 2012;34(1):59–67.
+65. Han HJ, Kim JY, Jang HY, et al. Fluoroscopic-guided intradiscal oxygen-ozone injection therapy for thoracolumbar intervertebral disc herniations in dogs. In Vivo. 2007;21(4):609–613.
+66. Tian JL, Zhang JS, Xiao YY, et al. Changes of CSF and spinal path- omorphology after high-concentration ozone injection into the suba- rachnoid space: an experimental study in pigs. AJNR Am J Neuroradiol. 2007;28(6):1051–1054.
+67. Streng AG. Tables of ozone properties. J Chem Eng Data. 1961; 6(3):431–436.
+68. Nakajima T, Akatsu S, Ohmura R, Takeya S, Mori YH. Molecular storage of ozone in a clathrate hydrate formed from an O3+O2+CO2 gas mixture. Angew Chem Int Ed Engl. 2011;50(44):10340–10343.
+69. Travagli V, Zanardi I, Bocci V. Topical applications of ozone and ozonated oils as anti-infective agents: an insight into the patent claims. Recent Pat Antiinfect Drug Discov. 2009;4(2):130–142.
+70. Lopez JL, Vezzu G, Freilich A, Paolini B. Effects of hydrocarbon contamination on ozone generation with dielectric barrier discharges. Eur Phys J D [serial online]. 2013;67:[about 8 p].
+71. Kogelschatz U, Baessler P. Determination of nitrous oxide and dinitrogen pentoxide concentrations in the output of air-fed ozone generators of high power density. Ozone Sci Engin. 1987;9(3): 195–206.
+72. Bocci V, Zanardi I, Michaeli V, Travagli V. Mechanisms of action and chemical-biological interactions between ozone and body compart- ments: a critical appraisal of the different administration routes. Curr Drug Ther. 2009;4(3):159–173.
+73. Bocci V, Zanardi I, Travagli V. Oxygen/ozone as a medical gas mix- ture. A critical evaluation of the various methods clarifies positive and negative aspects. Med Gas Res. 2011;1(1):6.
+74. Travagli V, Zanardi I, Bernini P, Nepi S, Tenori L, Bocci V. Effects of ozone blood treatment on the metabolite profile of human blood. Int J Toxicol. 2010;29(2):165–174.
+75. de Nêuton F, Magalhães O, Soares SC, et al. Effects of ozone applied by spinal endoscopy in patients with chronic pain related to failed back surgery syndrome: a pilot study. Neuropsychiatr Dis Treat. 2013;9:1759–1766.
+￼Drug Design, Development and Therapy
+Publish your work in this journal
+Drug Design, Development and Therapy is an international, peer- reviewed open-access journal that spans the spectrum of drug design and development through to clinical applications. Clinical outcomes, patient safety, and programs for the development and effective, safe, and sustained use of medicines are a feature of the journal, which
+Dovepress
+has also been accepted for indexing on PubMed Central. The manu- script management system is completely online and includes a very quick and fair peer-review system, which is all easy to use. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.
+Submit your manuscript here: http://www.dovepress.com/drug-design-development-and-therapy-journal
+￼Drug Design, Development and Therapy 2015:9
+submit your manuscript | www.dovepress.com Dovepress
+2685
