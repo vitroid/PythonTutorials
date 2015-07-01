@@ -26,7 +26,7 @@
 
 2. pipを使って、IPythonをインストールします。
 
-    % pip3 install ipython pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image
+    % pip3 install ipython pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image sklearn-pandas
 
 3. IPython notebookのファイル(拡張子.ipynb)のあるフォルダで、IPython notebookを起動します。ブラウザ内で編集画面が使えるようになります。
 
@@ -39,7 +39,7 @@
 
 2. pipを使って、IPythonをインストールします。(管理者権限)
 
-    % sudo pip3 install ipython pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image
+    % sudo pip3 install ipython pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image sklearn-pandas
 
 3. IPython notebookのファイル(拡張子.ipynb)のあるフォルダで、IPython notebookを起動します。ブラウザ内で編集画面が使えるようになります。
 
