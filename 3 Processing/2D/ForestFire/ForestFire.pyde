@@ -1,4 +1,24 @@
-# Forest Fire
+"""
+森林火災がどれだけ延焼するかは、単位面積あたりの木の
+本数(密度)に依存します。
+密度が高いともちろん燃え広がりやすいですが、延焼の規
+模と時間は、密度に比例するわけではなく、ある臨界点を
+境に延焼のしかたが不連続に変化します。
+この現象はパーコレーション(浸透現象)と呼ばれています。
+このプログラムでは、森林を格子で近似して、森林火災を
+シミュレーションします。
+緑が木、黄色が砂地(木が生えない)、赤が燃えている場所、
+黒が焼け野原です。
+緑の部分をマウスでクリックすると、着火します。
+
+シミュレーションでは、2つの規則を導入します。
+1. すべての格子点はステップごとに一斉に状態を更新する。
+2. 状態が更新されるのは、次の2つのケース。
+    a. 時刻tで、隣の4格子のいずれかが赤(延焼中)であ
+       る緑(木)の格子は、時刻t+1で赤になる。
+    b. 時刻tで、赤の格子は、時刻t+1で黒になる。
+"""
+
 import random
 desert = 0
 tree   = 1
@@ -12,7 +32,7 @@ forest = [[desert for i in range(forestsize)] for j in range(forestsize)]
 for i in range(forestsize):
     for j in range(forestsize):
         if random.random() < dens:
-            forest[i][j] = tree 
+            forest[i][j] = tree
 
 
 def drawone(i,j,f):
@@ -34,7 +54,7 @@ def setup():
     for i in range(forestsize):
         for j in range(forestsize):
             drawone(i,j,forest)
-                
+
 def draw():
     global forest#,forestsize
     modify = []
@@ -69,4 +89,3 @@ def mousePressed():
             forest[x][y] = burning
             loop()
             print("Loop")
-

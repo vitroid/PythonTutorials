@@ -1,4 +1,6 @@
-# template for self-arranging draggable particles
+"""
+マウスで引っぱれる円盤
+"""
 import itertools as it
 
 def reset_force(particles):
@@ -15,9 +17,9 @@ def avoid_overlap(particles,diam):
             d1 = sqrt(d2)
             dx /= d1
             dy /= d1
-            p1[2] -= dx 
-            p1[3] -= dy 
-            p2[2] += dx 
+            p1[2] -= dx
+            p1[3] -= dy
+            p2[2] += dx
             p2[3] += dy
 
 def displace(particles):
@@ -29,8 +31,8 @@ def rearrange(particles, diam):
     reset_force(particles)
     avoid_overlap(particles, diam)
     displace(particles)
-    
-    
+
+
 def find_particle(x,y,particles,diam):
     target = None
     for p in particles:
@@ -39,7 +41,7 @@ def find_particle(x,y,particles,diam):
         if dx**2 + dy**2 < diam**2 / 4.0:
             target = p
     return target
-    
+
 def mousePressed():
     global particles,diam,target
     x = mouseX
@@ -49,6 +51,7 @@ def mousePressed():
         target = [x,y,0,0]
         particles.append(target)
 
+#マウスをドラッグ(ボタンを押したまま移動)した時に呼ばれる特別な関数
 def mouseDragged():
     global target
     x, y = mouseX, mouseY
@@ -68,5 +71,3 @@ def draw():
     rearrange(particles, diam)
     for p in particles:
         ellipse(p[0],p[1],diam,diam)
-
-

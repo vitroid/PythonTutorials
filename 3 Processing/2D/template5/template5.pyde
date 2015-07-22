@@ -1,4 +1,7 @@
-# template for self-arranging connected particles
+"""
+マウスでドラッグすると結合が描ける円盤
+"""
+
 import itertools as it
 
 def reset_force(particles):
@@ -15,9 +18,9 @@ def avoid_overlap(particles,diam):
             d1 = sqrt(d2)
             dx /= d1
             dy /= d1
-            p1[2] -= dx 
-            p1[3] -= dy 
-            p2[2] += dx 
+            p1[2] -= dx
+            p1[3] -= dy
+            p2[2] += dx
             p2[3] += dy
 
 def displace(particles):
@@ -29,7 +32,7 @@ def rearrange(particles, diam):
     reset_force(particles)
     avoid_overlap(particles, diam)
     displace(particles)
-    
+
 def find_particle_id(x,y,particles,diam):
     id = -1
     for i in range(len(particles)):
@@ -39,7 +42,7 @@ def find_particle_id(x,y,particles,diam):
         if dx**2 + dy**2 < diam**2 / 4.0:
             id = i
     return id
-    
+
 def mousePressed():
     global particles,diam,target_id
     x = mouseX
@@ -49,7 +52,7 @@ def mousePressed():
         target = [x,y,0,0]
         target_id = len(particles)
         particles.append(target)
-        
+
 def mouseReleased():
     global particles,diam,connections,target_id
     x = mouseX
@@ -81,4 +84,3 @@ def draw():
              particles[target_id][1],
              mouseX,
              mouseY)
-

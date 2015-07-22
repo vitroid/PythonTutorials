@@ -1,4 +1,7 @@
-# template for self-arranging particles
+"""
+自己回避円盤: マウスを押した場所に円盤が描かれます。
+円盤は、互いが重ならないように、にじり動きます。
+"""
 import itertools as it
 
 def reset_force(particles):
@@ -15,8 +18,8 @@ def avoid_overlap(particles,diam):
             d1 = sqrt(d2)
             dx /= d1
             dy /= d1
-            p1[2] -= dx 
-            p1[3] -= dy 
+            p1[2] -= dx
+            p1[3] -= dy
             p2[2] += dx 
             p2[3] += dy
 
@@ -29,7 +32,7 @@ def rearrange(particles, diam):
     reset_force(particles)
     avoid_overlap(particles, diam)
     displace(particles)
-    
+
 def find_particle(x,y,particles,diam):
     target = None
     for p in particles:
@@ -38,7 +41,8 @@ def find_particle(x,y,particles,diam):
         if dx**2 + dy**2 < diam**2 / 4.0:
             target = p
     return target
-    
+
+#マウスが押されると呼ばれる特別な関数。
 def mousePressed():
     global particles,diam,target
     x = mouseX
@@ -50,17 +54,17 @@ def mousePressed():
     else:
         particles.remove(target)
 
+#最初に1度だけ呼ばれる関数
 def setup():
     global particles,diam
     size(500,500)
     particles = []
     diam = 100
 
+#フレームごとに呼ばれる関数
 def draw():
     global paticles,diam
     background(100)
     rearrange(particles, diam)
     for p in particles:
         ellipse(p[0],p[1],diam,diam)
-
-

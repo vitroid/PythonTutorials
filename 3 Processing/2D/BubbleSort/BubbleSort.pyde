@@ -1,4 +1,6 @@
-# bubble sort
+"""
+ソーティング(並べ替え)のプロセスを可視化したものです。
+"""
 
 def bubblesort(data):
     for x in range(len(data)):
@@ -17,7 +19,7 @@ iter = bubblesort(data)
 def setup():
     size(pix*len(data),pix*len(data))
     #frameRate(3)
-    
+
 def draw():
     d = next(iter, None)
     if d == None:
@@ -37,6 +39,3 @@ def drawone(d):
     strokeWeight(2)
     for i in range(len(d)):
         line(0,pix*i,d[i]*width,pix*i)
-
-    
-

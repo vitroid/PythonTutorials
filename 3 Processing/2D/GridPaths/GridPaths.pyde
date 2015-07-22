@@ -1,4 +1,10 @@
-#Number of routes in a grid city
+"""
+京都や札幌のような碁盤目の街路で、北西の端から南東の
+端まで移動する最短経路は何通りあるかを可視化します。
+
+重複順列の機能はitertoolsに含まれていないので、イン
+ターネットでさがしてきました。
+"""
 
 #Taken from http://stackoverflow.com/questions/6284396/permutations-with-unique-values
 def unique_permutations(elements):

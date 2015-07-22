@@ -1,6 +1,11 @@
-#dragon curve
+"""
+長い紙テープを準備します。これを半分に折り、さらに
+半分に折り、また半分に折ってから、
+折り目をすべて90度にひらくと、どんな形になるでしょ
+うか。
+"""
 
-Right, Left = True, False
+Right, Left = +85, -95
 
 def dup(tape):
     newtape = []
@@ -8,7 +13,7 @@ def dup(tape):
         newtape.append(fold)
     newtape.append(Right)
     for fold in reversed(tape):
-        newtape.append(not fold)
+        newtape.append(-fold)
     return newtape
 
 tape = [Right]
@@ -34,13 +39,7 @@ line(x,y,newx,newy)
 x,y = newx,newy
 
 for fold in tape:
-    if fold == Right:
-        angle += 90
-    else:
-        angle -= 90
+    angle += fold
     newx,newy = forward(x,y,angle,10)
     line(x,y,newx,newy)
     x,y = newx,newy
-    
-    
-    

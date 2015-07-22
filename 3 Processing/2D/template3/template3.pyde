@@ -1,4 +1,8 @@
-# template for self-arranging particles
+"""
+重なっている場合には遠ざかろうとするが、
+遠い場合には近づこうとする円盤。
+"""
+
 import itertools as it
 
 def reset_force(particles):
@@ -15,9 +19,9 @@ def avoid_overlap(particles,diam):
             d1 = sqrt(d2)
             dx /= d1
             dy /= d1
-            p1[2] -= dx 
-            p1[3] -= dy 
-            p2[2] += dx 
+            p1[2] -= dx
+            p1[3] -= dy
+            p2[2] += dx
             p2[3] += dy
 
 def pull_neighbors(particles,diam1,diam2):
@@ -29,9 +33,9 @@ def pull_neighbors(particles,diam1,diam2):
             d1 = sqrt(d2) * 10
             dx /= d1
             dy /= d1
-            p1[2] += dx 
-            p1[3] += dy 
-            p2[2] -= dx 
+            p1[2] += dx
+            p1[3] += dy
+            p2[2] -= dx
             p2[3] -= dy
 
 def displace(particles):
@@ -44,7 +48,7 @@ def rearrange(particles, diam):
     avoid_overlap(particles, diam)
     pull_neighbors(particles, diam*1.1, diam*1.3)
     displace(particles)
-    
+
 def find_particle(x,y,particles,diam):
     target = None
     for p in particles:
@@ -53,7 +57,7 @@ def find_particle(x,y,particles,diam):
         if dx**2 + dy**2 < diam**2 / 4.0:
             target = p
     return target
-    
+
 def mousePressed():
     global particles,diam
     x = mouseX
@@ -76,5 +80,3 @@ def draw():
     rearrange(particles, diam)
     for p in particles:
         ellipse(p[0],p[1],diam,diam)
-
-
