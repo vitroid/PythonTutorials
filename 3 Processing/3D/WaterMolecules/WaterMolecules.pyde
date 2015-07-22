@@ -1,30 +1,45 @@
 """
-Rotating water molecule
+Rotating water molecules
 """
+from random import random
+
+waterPos = [(500*random()-250,
+             500*random()-250,
+             500*random()-250,
+             2*PI*random(),
+             PI*random(),
+             2*PI*random()) for i in range(10)]
+BondLen = 100
+rO      = 30
+rH      = 15
+angle = 104.5/2*PI/180
+xH    = BondLen*sin(angle)
+yH    = BondLen*cos(angle)
+
 
 def setup():
     size(500,500,P3D)
     frameRate(30)
 
+
 def draw():
-    BondLen = 100
-    rO      = 30
-    rH      = 15
     background(50)
-    #Fixed lights
-    ##lights()
-    #translation/rotation are reset in every draw()
     translate(250,250,0)
     rotateY(frameCount/10.0)
     #if you set lights here, lights also rotate with the model
     lights()
-    Water()
+    for wp in waterPos:
+        #temporary transformation
+        with pushMatrix():
+            x,y,z,a,b,c = wp
+            translate(x,y,z)
+            rotateZ(a)
+            rotateY(b)
+            rotateZ(c)
+            Water()
 
 
 def Water():
-    angle = 104.5/2*PI/180
-    xH    = BondLen*sin(angle)
-    yH    = BondLen*cos(angle)
     noStroke()
     fill(255,0,0)
     sphere(rO)
