@@ -1,15 +1,16 @@
 """
 Rotating water molecule
 """
+BondLen = 100
+rO      = 30
+rH      = 15
+
 
 def setup():
     size(500,500,P3D)
     frameRate(30)
 
 def draw():
-    BondLen = 100
-    rO      = 30
-    rH      = 15
     background(50)
     #Fixed lights
     ##lights()
