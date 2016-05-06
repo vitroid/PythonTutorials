@@ -25,7 +25,7 @@ def setup():
 def draw():
     background(50)
     translate(250,250,0)
-    rotateY(frameCount/10.0)
+    rotateY(frameCount/30.0)
     #if you set lights here, lights also rotate with the model
     lights()
     for wp in waterPos:
