@@ -1,4 +1,5 @@
 # 使い方
+
 このテキストは、WinPythonを使った2日間の集中講義で、まったくプログラミングをしたことのない理系の学生にPythonを教えることを目標とした教材です。
 これ以外に、印刷物で配布しているレジュメがあります。いずれはそれもアップロードしたいと思います。
 
@@ -8,7 +9,7 @@
 今回の講義では(昨年までと違い)、WinPythonを利用します。WinPythonはその名の通り、WindowsでPythonを使うためのパッケージで、科学にPythonを使う人のために、いろんなライブラリ(拡張機能)をよりすぐってあり、将来研究での本格的な利用にも耐える設計になっています。なお、USBメモリにインストールする場合には、以下の作業は自宅のWindows PCで行っても構いません。
 
 パッケージは以下のURLからダウンロードします。
-    http://sourceforge.net/projects/winpython/
+    http://sourceforge.net/projects/winpython/
 
 画面中央の緑のDownloadボタンをクリックすると、ダウンロードされます。ただし、けっこう時間がかかるので、近くの友人がすでにダウンロードしたものを持っていれば、そのファイル(WinPython……exe)をコピーするのが早道です。
 
@@ -19,7 +20,9 @@
 インストールがおわったら、インストール先フォルダの中に「WinPython-32bit-3.4.3.2」のような名前のフォルダができているはずです。フォルダの中の「Jupyter Notebook.exe」を今回の演習で使います。
 
 # Jupyter notebookのMacOSへのインストール
+
 ## HomeBrewの人
+
 1. Python3をインストールします。
 
     % brew install python3
@@ -33,6 +36,7 @@
     % jupyter notebook
 
 ## MacPortsの人
+
 1. Python3とPIP (Python用のパッケージマネージャ)をインストールします。(管理者権限)
 
     % sudo port install python34 py34-pip
@@ -46,7 +50,9 @@
     % jupyter notebook
 
 # 参考資料
+
 ## Pythonプログラムを書くのに役立つサイト
+
 Pythonには、古いバージョン(バージョン2系)と新しいバージョン(バージョン3系)があり、微妙に文法が変わっています。今回の実習は3系の文法を説明しています。
 
 * [Python言語のオンラインマニュアル(日本語)](http://docs.python.jp/3/) Pythonの書き方のほか、各種ライブラリを紹介している。
