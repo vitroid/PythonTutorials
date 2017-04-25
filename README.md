@@ -25,29 +25,29 @@
 
 1. Python3をインストールします。
 
-    % brew install python3
+       % brew install python3
 
 2. pipを使って、Jupyterをインストールします。
 
-    % pip3 install jupyter pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image sklearn-pandas
+       % pip3 install jupyter pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image sklearn-pandas
 
 3. Jupyter notebookのファイル(拡張子.ipynb)のあるフォルダで、Jupyter notebookを起動します。ブラウザ内で編集画面が使えるようになります。
 
-    % jupyter notebook
+       % jupyter notebook
 
 ## MacPortsの人
 
 1. Python3とPIP (Python用のパッケージマネージャ)をインストールします。(管理者権限)
 
-    % sudo port install python34 py34-pip
+       % sudo port install python34 py34-pip
 
 2. pipを使って、Jupyterをインストールします。(管理者権限)
 
-    % sudo pip3 install ipython pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image sklearn-pandas
+       % sudo pip3 install ipython pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image sklearn-pandas
 
 3. Jupyter notebookのファイル(拡張子.ipynb)のあるフォルダで、Jupyter notebookを起動します。ブラウザ内で編集画面が使えるようになります。
 
-    % jupyter notebook
+       % jupyter notebook
 
 # 参考資料
 
