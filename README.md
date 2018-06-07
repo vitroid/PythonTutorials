@@ -1,12 +1,13 @@
 # 使い方
 
-このテキストは、WinPythonを使った2日間の集中講義で、まったくプログラミングをしたことのない理系の学生にPythonを教えることを目標とした教材です。
-これ以外に、印刷物で配布しているレジュメがあります。いずれはそれもアップロードしたいと思います。
+このテキストは、WinPythonを使った2日間の集中講義で、まったくプログラミングをしたことのない理系の学部3年生にPythonを教えることを目標とした教材です。
+
+また、大学院生向けのテキストも順次書きくわえていきます。
 
 いろいろ足りないところもあると思います。お気付きの点はvitroid@gmail.comまでお知らせいただけると、改良の役に立てさせていただきます。
 
 # WinPythonのインストール
-今回の講義では、WinPythonを利用します。WinPythonはその名の通り、WindowsでPythonを使うためのパッケージで、科学にPythonを使う人のために、いろんなライブラリ(拡張機能)をよりすぐってあり、将来研究での本格的な利用にも耐える設計になっています。なお、USBメモリにインストールする場合には、以下の作業は自宅のWindows PCで行っても構いません。
+3年生の講義では、WinPythonを利用します。WinPythonはその名の通り、WindowsでPythonを使うためのパッケージで、科学にPythonを使う人のために、いろんなライブラリ(拡張機能)をよりすぐってあり、将来研究での本格的な利用にも耐える設計になっています。なお、USBメモリにインストールする場合には、以下の作業は自宅のWindows PCで行っても構いません。
 
 (2017-06更新)当日配布するUSBメモリにはあらかじめすべてインストールされていますので、以下の作業は必要ありません。
 
@@ -23,35 +24,7 @@
 
 インストールがおわったら、インストール先フォルダの中に「WinPython-32bit-3.4.3.2」のような名前のフォルダができているはずです。フォルダの中の「Jupyter Notebook.exe」を今回の演習で使います。
 
-# Jupyter notebookのMacOSへのインストール
-
-## HomeBrewの人
-
-1. Python3をインストールします。
-
-       % brew install python3
-
-2. pipを使って、Jupyterをインストールします。
-
-       % pip3 install jupyter pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image sklearn-pandas
-
-3. Jupyter notebookのファイル(拡張子.ipynb)のあるフォルダで、Jupyter notebookを起動します。ブラウザ内で編集画面が使えるようになります。
-
-       % jupyter notebook
-
-## MacPortsの人
-
-1. Python3とPIP (Python用のパッケージマネージャ)をインストールします。(管理者権限)
-
-       % sudo port install python34 py34-pip
-
-2. pipを使って、Jupyterをインストールします。(管理者権限)
-
-       % sudo pip3 install ipython pyzmq jsonschema Jinja2 tornado matplotlib simply spicy numpy scikit-image sklearn-pandas
-
-3. Jupyter notebookのファイル(拡張子.ipynb)のあるフォルダで、Jupyter notebookを起動します。ブラウザ内で編集画面が使えるようになります。
-
-       % jupyter notebook
+なお、自分のノートパソコンにインストールする場合、あるいはWindows以外のパソコンの場合には、[Anaconda Navigator](https://www.anaconda.com/download)の利用をおすすめします。
 
 # 参考資料
 
