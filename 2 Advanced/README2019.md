@@ -1,4 +1,5 @@
-![](https://i.gyazo.com/55c07bd52027dadd9bf1076e528a13e2.png)
+![](https://i.gyazo.com/5a53ee6b289cc8ae448f1d4d402da9de.png)
+https://github.com/vitroid/PythonTutorials/blob/master/2%20Advanced/README2019.md
 # 2019年 複雑系化学 資料
 
 今、データサイエンスと機械学習(とりわけ人工知能)が注目されています。特に、Python言語はそれらのプラットフォームとして人気が高まっていて、既存の膨大なライブラリを利用して、最先端の情報処理を簡単に利用できるようになってきています。スキルを身につけておけば、研究に活用するのはもちろん、卒業後の就職でも有利に働くことでしょう。
