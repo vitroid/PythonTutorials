@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.7</string>
+	<string>444.38</string>
 	<key>AMApplicationVersion</key>
-	<string>2.8</string>
+	<string>2.9</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -55,13 +55,13 @@
 				<key>ActionBundlePath</key>
 				<string>/System/Library/Automator/Run Shell Script.action</string>
 				<key>ActionName</key>
-				<string>シェルスクリプトを実行</string>
+				<string>Run Shell Script</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
 					<string>#!/bin/sh
 variable="'$1'"
-the_script='tell application "terminal" to do script "source activate base; /Users/matto/anaconda3/bin/jupyter notebook '
+the_script='tell application "terminal" to do script "source activate base; jupyter lab '
 osascript -e "${the_script}${variable}\""</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
@@ -87,19 +87,19 @@ osascript -e "${the_script}${variable}\""</string>
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>F3E2589F-F4FA-431F-97D9-61C6634E3565</string>
+				<string>81032ACC-4D13-456B-8ECA-2654DB2F21C5</string>
 				<key>Keywords</key>
 				<array>
-					<string>シェル</string>
-					<string>スクリプト</string>
-					<string>コマンド</string>
-					<string>実行</string>
-					<string>UNIX</string>
+					<string>Shell</string>
+					<string>Script</string>
+					<string>Command</string>
+					<string>Run</string>
+					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>718B9C46-826A-4BD9-BAE6-10EB87502B2F</string>
+				<string>4B97C037-F5C4-46EF-9358-A590AA9CA295</string>
 				<key>UUID</key>
-				<string>C4C45905-1D9E-47FF-B793-3FD4C90D32C0</string>
+				<string>6DF02B25-14A9-4164-8CC3-5D6AFFEBEBD9</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
@@ -172,14 +172,12 @@ osascript -e "${the_script}${variable}\""</string>
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>640.500000:253.000000</string>
+				<string>286.500000:252.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Japanese.lproj/main.nib</string>
+				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
