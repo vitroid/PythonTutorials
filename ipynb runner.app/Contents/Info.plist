@@ -34,11 +34,11 @@
 	<key>CFBundleIconFile</key>
 	<string>AutomatorApplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.automator.Jupyter</string>
+	<string>com.apple.automator.ipynb runner</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Jupyter</string>
+	<string>ipynb runner</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -52,23 +52,23 @@
 	<key>CFBundleURLTypes</key>
 	<array/>
 	<key>CFBundleVersion</key>
-	<string>444.38</string>
+	<string>444.42</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>10L213p</string>
+	<string>10P70r</string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
 	<string>10.14</string>
 	<key>DTSDKBuild</key>
-	<string>18A371</string>
+	<string>18E203</string>
 	<key>DTSDKName</key>
 	<string>macosx10.14internal</string>
 	<key>DTXcode</key>
-	<string>1000</string>
+	<string>1020</string>
 	<key>DTXcodeBuild</key>
-	<string>10L213p</string>
+	<string>10P70r</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.6</string>
 	<key>LSUIElement</key>

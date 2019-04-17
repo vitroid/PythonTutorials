@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.38</string>
+	<string>444.42</string>
 	<key>AMApplicationVersion</key>
 	<string>2.9</string>
 	<key>AMDocumentVersion</key>
@@ -55,14 +55,20 @@
 				<key>ActionBundlePath</key>
 				<string>/System/Library/Automator/Run Shell Script.action</string>
 				<key>ActionName</key>
-				<string>Run Shell Script</string>
+				<string>シェルスクリプトを実行</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>#!/bin/sh
-variable="'$1'"
-the_script='tell application "terminal" to do script "source activate base; jupyter lab '
-osascript -e "${the_script}${variable}\""</string>
+					<string>#!/bin/bash
+arg=" '$1'"
+anapath=${HOME}/anaconda3
+anaenv=envs/genice
+anaenv=
+bash_script="source activate ${anaenv}; ${anapath}/$anaenv/bin/jupyter lab"
+echo $bash_script
+the_script="tell application \"terminal\" to do script \"$bash_script"
+echo ${the_script}${arg}"\""
+osascript -e "${the_script}${arg}\""</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -87,19 +93,19 @@ osascript -e "${the_script}${variable}\""</string>
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>81032ACC-4D13-456B-8ECA-2654DB2F21C5</string>
+				<string>F3E2589F-F4FA-431F-97D9-61C6634E3565</string>
 				<key>Keywords</key>
 				<array>
-					<string>Shell</string>
-					<string>Script</string>
-					<string>Command</string>
-					<string>Run</string>
-					<string>Unix</string>
+					<string>シェル</string>
+					<string>スクリプト</string>
+					<string>コマンド</string>
+					<string>実行</string>
+					<string>UNIX</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>4B97C037-F5C4-46EF-9358-A590AA9CA295</string>
+				<string>718B9C46-826A-4BD9-BAE6-10EB87502B2F</string>
 				<key>UUID</key>
-				<string>6DF02B25-14A9-4164-8CC3-5D6AFFEBEBD9</string>
+				<string>C4C45905-1D9E-47FF-B793-3FD4C90D32C0</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
@@ -175,7 +181,7 @@ osascript -e "${the_script}${variable}\""</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>286.500000:252.000000</string>
+				<string>587.500000:671.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
