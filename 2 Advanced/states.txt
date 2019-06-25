@@ -1,0 +1,400 @@
+# from http://www.xfront.com/us_states/
+Name: Alabama
+
+Capital Name: Montgomery
+
+Capital Latitude: 32.361538
+
+Capital Longitude: -86.279118
+
+Name: Alaska
+
+Capital Name: Juneau
+
+Capital Latitude: 58.301935
+
+Capital Longitude: -134.419740
+
+Name: Arizona
+
+Capital Name: Phoenix
+
+Capital Latitude: 33.448457
+
+Capital Longitude: -112.073844
+
+Name: Arkansas
+
+Capital Name: Little Rock
+
+Capital Latitude: 34.736009
+
+Capital Longitude: -92.331122
+
+Name: California
+
+Capital Name: Sacramento
+
+Capital Latitude: 38.555605
+
+Capital Longitude: -121.468926
+
+Name: Colorado
+
+Capital Name: Denver
+
+Capital Latitude: 39.7391667
+
+Capital Longitude: -104.984167
+
+Name: Connecticut
+
+Capital Name: Hartford
+
+Capital Latitude: 41.767
+
+Capital Longitude: -72.677
+
+Name: Delaware
+
+Capital Name: Dover
+
+Capital Latitude: 39.161921
+
+Capital Longitude: -75.526755
+
+Name: Florida
+
+Capital Name: Tallahassee
+
+Capital Latitude: 30.4518
+
+Capital Longitude: -84.27277
+
+Name: Georgia
+
+Capital Name: Atlanta
+
+Capital Latitude: 33.76
+
+Capital Longitude: -84.39
+
+Name: Hawaii
+
+Capital Name: Honolulu
+
+Capital Latitude: 21.30895
+
+Capital Longitude: -157.826182
+
+Name: Idaho
+
+Capital Name: Boise
+
+Capital Latitude: 43.613739
+
+Capital Longitude: -116.237651
+
+Name: Illinois
+
+Capital Name: Springfield
+
+Capital Latitude: 39.783250
+
+Capital Longitude: -89.650373
+
+Name: Indiana
+
+Capital Name: Indianapolis
+
+Capital Latitude: 39.790942
+
+Capital Longitude: -86.147685
+
+Name: Iowa
+
+Capital Name: Des Moines
+
+Capital Latitude: 41.590939
+
+Capital Longitude: -93.620866
+
+Name: Kansas
+
+Capital Name: Topeka
+
+Capital Latitude: 39.04
+
+Capital Longitude: -95.69
+
+Name: Kentucky
+
+Capital Name: Frankfort
+
+Capital Latitude: 38.197274
+
+Capital Longitude: -84.86311
+
+Name: Louisiana
+
+Capital Name: Baton Rouge
+
+Capital Latitude: 30.45809
+
+Capital Longitude: -91.140229
+
+Name: Maine
+
+Capital Name: Augusta
+
+Capital Latitude: 44.323535
+
+Capital Longitude: -69.765261
+
+Name: Maryland
+
+Capital Name: Annapolis
+
+Capital Latitude: 38.972945
+
+Capital Longitude: -76.501157
+
+Name: Massachusetts
+
+Capital Name: Boston
+
+Capital Latitude: 42.2352
+
+Capital Longitude: -71.0275
+
+Name: Michigan
+
+Capital Name: Lansing
+
+Capital Latitude: 42.7335
+
+Capital Longitude: -84.5467
+
+Name: Minnesota
+
+Capital Name: Saint Paul
+
+Capital Latitude: 44.95
+
+Capital Longitude: -93.094
+
+Name: Mississippi
+
+Capital Name: Jackson
+
+Capital Latitude: 32.320
+
+Capital Longitude: -90.207
+
+Name: Missouri
+
+Capital Name: Jefferson City
+
+Capital Latitude: 38.572954
+
+Capital Longitude: -92.189283
+
+Name: Montana
+
+Capital Name: Helana
+
+Capital Latitude: 46.595805
+
+Capital Longitude: -112.027031
+
+Name: Nebraska
+
+Capital Name: Lincoln
+
+Capital Latitude: 40.809868
+
+Capital Longitude: -96.675345
+
+Name: Nevada
+
+Capital Name: Carson City
+
+Capital Latitude: 39.160949
+
+Capital Longitude: -119.753877
+
+Name: New Hampshire
+
+Capital Name: Concord
+
+Capital Latitude: 43.220093
+
+Capital Longitude: -71.549127
+
+Name: New Jersey
+
+Capital Name: Trenton
+
+Capital Latitude: 40.221741
+
+Capital Longitude: -74.756138
+
+Name: New Mexico
+
+Capital Name: Santa Fe
+
+Capital Latitude: 35.667231
+
+Capital Longitude: -105.964575
+
+Name: New York
+
+Capital Name: Albany
+
+Capital Latitude: 42.659829
+
+Capital Longitude: -73.781339
+
+Name: North Carolina
+
+Capital Name: Raleigh
+
+Capital Latitude: 35.771
+
+Capital Longitude: -78.638
+
+Name: North Dakota
+
+Capital Name: Bismarck
+
+Capital Latitude: 48.813343
+
+Capital Longitude: -100.779004
+
+Name: Ohio
+
+Capital Name: Columbus
+
+Capital Latitude: 39.962245
+
+Capital Longitude: -83.000647
+
+Name: Oklahoma
+
+Capital Name: Oklahoma City
+
+Capital Latitude: 35.482309
+
+Capital Longitude: -97.534994
+
+Name: Oregon
+
+Capital Name: Salem
+
+Capital Latitude: 44.931109
+
+Capital Longitude: -123.029159
+
+Name: Pennsylvania
+
+Capital Name: Harrisburg
+
+Capital Latitude: 40.269789
+
+Capital Longitude: -76.875613
+
+Name: Rhode Island
+
+Capital Name: Providence
+
+Capital Latitude: 41.82355
+
+Capital Longitude: -71.422132
+
+Name: South Carolina
+
+Capital Name: Columbia
+
+Capital Latitude: 34.000
+
+Capital Longitude: -81.035
+
+Name: South Dakota
+
+Capital Name: Pierre
+
+Capital Latitude: 44.367966
+
+Capital Longitude: -100.336378
+
+Name: Tennessee
+
+Capital Name: Nashville
+
+Capital Latitude: 36.165
+
+Capital Longitude: -86.784
+
+Name: Texas
+
+Capital Name: Austin
+
+Capital Latitude: 30.266667
+
+Capital Longitude: -97.75
+
+Name: Utah
+
+Capital Name: Salt Lake City
+
+Capital Latitude: 40.7547
+
+Capital Longitude: -111.892622
+
+Name: Vermont
+
+Capital Name: Montpelier
+
+Capital Latitude: 44.26639
+
+Capital Longitude: -72.57194
+
+Name: Virginia
+
+Capital Name: Richmond
+
+Capital Latitude: 37.54
+
+Capital Longitude: -77.46
+
+Name: Washington
+
+Capital Name: Olympia
+
+Capital Latitude: 47.042418
+
+Capital Longitude: -122.893077
+
+Name: West Virginia
+
+Capital Name: Charleston
+
+Capital Latitude: 38.349497
+
+Capital Longitude: -81.633294
+
+Name: Wisconsin
+
+Capital Name: Madison
+
+Capital Latitude: 43.074722
+
+Capital Longitude: -89.384444
+
+Name: Wyoming
+
+Capital Name: Cheyenne
+
+Capital Latitude: 41.145548
+
+Capital Longitude: -104.802042
