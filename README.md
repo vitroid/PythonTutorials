@@ -1,45 +1,40 @@
-# 使い方
+# PythonTutorials
 
-このテキストは、WinPythonを使った2日間の集中講義で、まったくプログラミングをしたことのない理系の学部3年生にPythonを教えることを目標とした教材です。
+## 1 For beginners
 
-また、大学院生向けのテキストも順次書きくわえていきます。
+Pythonを使ってデータ処理をしよう、という教材です。といってもPythonの基本関数の範囲内でなんとか
+します。大学3年生の3日間の集中演習授業用。2020年より[Google Colaboratory](https://colab.research.google.com)に移行しました。
 
-いろいろ足りないところもあると思います。お気付きの点はvitroid@gmail.comまでお知らせいただけると、改良の役に立てさせていただきます。
+https://colab.research.google.com/github/vitroid/PythonTutorials/blob/master/1%20For%20beginners/0First.ipynb
 
-# WinPythonのインストール
-3年生の講義では、WinPythonを利用します。WinPythonはその名の通り、WindowsでPythonを使うためのパッケージで、科学にPythonを使う人のために、いろんなライブラリ(拡張機能)をよりすぐってあり、将来研究での本格的な利用にも耐える設計になっています。なお、USBメモリにインストールする場合には、以下の作業は自宅のWindows PCで行っても構いません。
+## 2 Advanced
 
-(2017-06更新)当日配布するUSBメモリにはあらかじめすべてインストールされていますので、以下の作業は必要ありません。
+研究の現場で使えるレベルのPythonを学びます。
+`numpy, networkx, sympy, matplotlib, opencv`, 機械学習などいろいろつまみ食いします。
+2020年より[Google Colaboratory](https://colab.research.google.com)に移行しました。
 
-----
+https://colab.research.google.com/github/vitroid/PythonTutorials/blob/master/2%20Advanced/011Intro2.ipynb
 
-パッケージは以下のURLからダウンロードします。
-    http://sourceforge.net/projects/winpython/
+## 3 Processing
 
-画面中央の緑のDownloadボタンをクリックすると、ダウンロードされます。ただし、けっこう時間がかかるので、近くの友人がすでにダウンロードしたものを持っていれば、そのファイル(WinPython……exe)をコピーするのが早道です。
+Processing.pyの教材。準備中。
 
-ダウンロードしたファイルを開いて下さい。しばらくして、 “Destination Folder” (インストール先フォルダ)を聞いてきます。ここで内蔵ディスクを選ぶと内蔵ディスクに、USBメモリを選ぶとUSBメモリにインストールされます。1ギガバイトの空き容量が必要ですが、岡大のシステムはディスク容量がとても小さいので、USBメモリを選ぶことをおすすめします。
+## 4 F2PY
 
-インストールにはかなり時間がかかります。家で作業する場合は、夕食を作るなり風呂に入るなりして気長に待って下さい。大学で作業する場合は情報端末室の開室時間に注意して作業して下さい。
+その名の通り、f2pyを使ってFortranとPythonを連携させる実験です。
 
-インストールがおわったら、インストール先フォルダの中に「WinPython-32bit-3.4.3.2」のような名前のフォルダができているはずです。フォルダの中の「Jupyter Notebook.exe」を今回の演習で使います。
+## 6 pygame
 
-なお、自分のノートパソコンにインストールする場合、あるいはWindows以外のパソコンの場合には、[Anaconda Navigator](https://www.anaconda.com/download)の利用をおすすめします。
+(準備中)
 
-# 参考資料
+## 9 Preparation
 
-## Pythonプログラムを書くのに役立つサイト
+(講義の準備のための検算と、データ生成です。)
 
-Pythonには、古いバージョン(バージョン2系)と新しいバージョン(バージョン3系)があり、微妙に文法が変わっています。今回の実習は3系の文法を説明しています。
+## Pending
 
-* [Python言語のオンラインマニュアル(日本語)](http://docs.python.jp/3/) Pythonの書き方のほか、各種ライブラリを紹介している。
-* [WinPython](http://sourceforge.net/projects/winpython/) この講義で使用しているWinPython(WP)の提供元(英語)。最新版を入手可能
-* [Scipy](http://www.scipy.org) WPに含まれる高度な数値計算ライブラリの情報(英語)。
-* [pandas](http://pandas.pydata.org/) WPに含まれるデータ解析ライブラリpandasの情報(英語)。
-* [Dive into Python3](http://diveintopython3-ja.rdy.jp/) Python2との違い(日本語)。Python3に移行するメリットが簡潔に明快に書かれている。すでにPython2をどこかでさわったことがある人は読むとよい。
-* [CodeAcademy](http://www.codecademy.com/tracks/python) フリーオンライン教材CodeAcademyで学ぶPython。講義を聞くのがかったるい人はこっちで学ぶことも可能。
-* [Google App Engine](https://developers.google.com/appengine/?hl=ja) Googleが提供するウェブアプリケーション開発環境Google App Engine。ウェブサーバ上で動くアプリケーションを無料でPythonで開発できる(日本語)。
+(いずれ教材にしようと思っている題材です。)
 
-iPhoneのApp Storeで検索すると、iPhone上でPythonプログラムを書いて走らせることもできるようです。
+## ProjectEuler
 
-(Editing test)
+[ProjectEuler](https://projecteuler.net/)の問題に挑戦しています。
