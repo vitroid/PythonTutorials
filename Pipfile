@@ -11,6 +11,7 @@ scipy = "*"
 matplotlib = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
