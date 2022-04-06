@@ -38,3 +38,7 @@ Processing.pyの教材。準備中。
 ## ProjectEuler
 
 [ProjectEuler](https://projecteuler.net/)の問題に挑戦しています。
+
+## ChangeLog
+
+* 2022-04-06 masterをいつも安定板として提供することにする。(URLの変更が面倒なので)
