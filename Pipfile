@@ -9,6 +9,9 @@ jupyter = "*"
 ipykernel = "*"
 scipy = "*"
 matplotlib = "*"
+python-docx = "*"
+googletrans = "*"
+scikit-image = "*"
 
 [dev-packages]
 ipykernel = "*"

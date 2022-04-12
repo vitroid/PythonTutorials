@@ -1,0 +1,4 @@
+#coding: utf-8
+x = ๔๒ü’ฦü’หÜ’ธ์๔๒ý
+y = u๔๒ý’ฦü’หÜ’ธ์#๔๒ý
+print len(x), len(y)
