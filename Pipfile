@@ -12,9 +12,10 @@ matplotlib = "*"
 python-docx = "*"
 googletrans = "*"
 scikit-image = "*"
+gmpy2 = "*"
 
 [dev-packages]
 ipykernel = "*"
 
 [requires]
-python_version = "3.9"
+python_version = ">=3.9"
