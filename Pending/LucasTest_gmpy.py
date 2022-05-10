@@ -8,35 +8,39 @@ import time
 import sys
 
 @lru_cache
-def Sm2(n, p):
+def LucasTest(n, p):
     x = gmpy2.mpz(4)
     M = (1<<p) - 1
     for i in range(n):
         x = x**2 - 2
         x = (x >> p) + (x & M)
         x = (x >> p) + (x & M)
-    if x == M:
-        return 0
-    return x
+    return x == M
 
 
-def benchmark():
+def isMersennePrime(p):
+    return LucasTest(p-2, p)
+
+
+def benchmark(p=0):
+    if p > 0:
+        now = time.time()
+        print(isMersennePrime(p))      # 2^p-1の剰余系で二進計算する方法 同19個
+        print(p, time.time() - now)
+        return
     Mp = []
-    now = time.time()
     for p in primes():
-        if Sm2(p-2, p) == 0:          # 2^p-1の剰余系で二進計算する方法 同19個
+        now = time.time()
+        if isMersennePrime(p):          # 2^p-1の剰余系で二進計算する方法 同19個
             Mp.append(p)
-            print(time.time() - now, len(Mp), p)
+            print(p, time.time() - now)
 
-def singleTest(p):
-    now = time.time()
-    print(Sm2(p-2, p) == 0)          # 2^p-1の剰余系で二進計算する方法 同19個
-    print(time.time() - now)
 
 if __name__ == "__main__":
     # benchmark()
-    # singleTest(23209) # 26; 0.5093061923980713 sec Apple M1
-    # singleTest(44497) # 27; 1.9888668060302734 sec
-    # singleTest(86243) # 28; 9.635300874710083 sec めちゃ速だけどこれでも並列処理ではないようだ。
-    # singleTest(216091) # 31; 73.81052112579346 sec
-    singleTest(1257787) # 34; infinite.
+    # benchmark(23209) # 26; 0.5093061923980713 sec Apple M1
+    # benchmark(44497) # 27; 1.9888668060302734 sec
+    # benchmark(86243) # 28; 9.635300874710083 sec めちゃ速だけどこれでも並列処理ではないようだ。
+    # benchmark(216091) # 31; 73.81052112579346 sec
+    benchmark(756839) # 32; 
+    # benchmark(1257787) # 34; infinite.
