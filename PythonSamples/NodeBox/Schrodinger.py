@@ -1,4 +1,5 @@
 from cmath import *
+from nodebox_wrapper import *
 
 def dx2d2phi(ix,phi,dx):
     xplus = ix + 1
@@ -25,7 +26,7 @@ def normalize(phi,dx):
     for i in range(0,len(phi)):
         sum += phi[i]*phi[i].conjugate()
     sum *= dx
-    print sum
+    print(sum)
     sum = 1.0/sqrt(sum)
     for i in range(0,len(phi)):
         phi[i] *= sum
@@ -69,8 +70,6 @@ def draw():
     stroke(0,0,0)
     graphi(phi,50)
 
-
-
-
-
-        
+# for nodebox_wrapper
+size(512, 512)
+animate(setup, draw)
