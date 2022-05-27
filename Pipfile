@@ -13,6 +13,8 @@ python-docx = "*"
 googletrans = "*"
 scikit-image = "*"
 gmpy2 = "*"
+plotly = "*"
+sympy = "*"
 
 [dev-packages]
 ipykernel = "*"
