@@ -15,6 +15,8 @@ scikit-image = "*"
 gmpy2 = "*"
 plotly = "*"
 sympy = "*"
+csp = "*"
+pillow = "*"
 
 [dev-packages]
 ipykernel = "*"
