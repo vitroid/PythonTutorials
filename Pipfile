@@ -17,6 +17,7 @@ plotly = "*"
 sympy = "*"
 csp = "*"
 pillow = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
