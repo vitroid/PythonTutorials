@@ -18,7 +18,7 @@ sympy = "*"
 csp = "*"
 pillow = "*"
 scikit-learn = "*"
+requests = "*"
 
 [dev-packages]
 ipykernel = "*"
-
