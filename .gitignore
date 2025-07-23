@@ -7,3 +7,4 @@
 *.pyc
 2 Advanced/050numpy2.ipynb
 *.lock
+Pipfile.backup
